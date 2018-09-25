@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "shavtzakon",
+    "public": "shavtzakon/src",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -9,7 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "shavtzakon/src/index.html"
+        "destination": "/index.html"
       }
     ]
   }
