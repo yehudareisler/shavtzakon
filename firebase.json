@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "shavtzakon/src",
+    "public": "shavtzakon/dist/shavtzakon",
     "ignore": [
       "firebase.json",
       "**/.*",
